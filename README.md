@@ -1,12 +1,12 @@
 <h1>Situação de Aprendizagem</h1>
 Banco de dados com cadastro de vagas de emprego e candidatos.<br>
-É possível criar, ler, alterar e deletar registros realizados em conformidade com o padrão CRUD.<br><br>
+É possível criar, ler, alterar e deletar registros realizados em conformidade com o padrão CRUD.<br>
 
 Projeto foi criado ao longo do quarto semeste do curso Análise e Desenvolvimento de Sistemas do Senai/SC.
 Foram aproveitadas partes do backend Projeto Aplicado III do semestre anterior.<br>
-<br><br>
+<br>
 
-**Autor: Mauro José Vieira Junior.**
+**Autores: Elisiane Carla Kobielski, Mauro José Vieira Junior.**
 
 <h2>Pré-requisitos</h2>
 Para rodar este projeto é necessário ter o Java versão 20.0.1 (2023-04-18), PostgreSQL 15.2 build 1914 e Spring Boot 3.1.3
@@ -30,7 +30,7 @@ Java 20.0.1<br>
 https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html<br>
 PostgreSQL 15.2 (versão acessada em 2023-09-04 é a 15.4)<br>
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
-**Vídeos tutoriais do professor Julio Cezar Rutke na plataforma AVA Sesi/Senai**<br>
+<b>Vídeos tutoriais do professor Julio Cezar Rutke na plataforma AVA Sesi/Senai</b><br>
 Projeto inicial gerado com a ferramenta Spring Initializr<br>
 https://start.spring.io/<br>
 Criando Aplicação Fullstack do Zero com Java Spring e React - Parte 1: Desenvolvimento do Backend<br>
