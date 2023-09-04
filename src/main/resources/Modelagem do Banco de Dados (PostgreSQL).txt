@@ -1,0 +1,29 @@
+create table candidate(	id           	serial      primary key,
+						name         	varchar(255) not null,
+						sex    			varchar(255) not null,
+						race			varchar(255) not null,
+						disability  	varchar(255) not null,
+						tel_number  	varchar(255) not null,
+						email  			varchar(255) not null,
+						postal_code  	varchar(255) not null,
+						skills  		varchar(255) not null
+					);
+
+create table job(	id           	serial      primary key,
+					role         	varchar(255) not null,
+					activities    	varchar(255) not null,
+					requirements	varchar(255) not null
+				);
+
+create table company(	id           	serial      primary key,
+						name         	varchar(255) not null,
+						email  			varchar(255) not null,
+						postal_code  	varchar(255) not null,
+						password  		varchar(255) not null
+					);
+
+create table Recruiter(	id           	serial      primary key,
+						name         	varchar(255) not null,
+						email  			varchar(255) not null,
+						password  		varchar(255) not null
+					);
