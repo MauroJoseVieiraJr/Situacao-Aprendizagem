@@ -49,3 +49,5 @@ innerHTML with For Loop in Javascript<br>
 https://stackoverflow.com/questions/12996763/innerhtml-with-for-loop-in-javascript<br>
 JavaScript | How to Fetch Data from an API<br>
 https://www.youtube.com/watch?v=zOrejGF0oBA<br>
+REST API design - optional request parameters<br>
+https://stackoverflow.com/questions/61033474/rest-api-design-optional-request-parameters<br>
